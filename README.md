@@ -101,4 +101,4 @@ plt.show()
 <img width="554" alt="t3" src="https://github.com/user-attachments/assets/493c4c4e-f4d2-4584-823b-8e18613d4488">
 <img width="585" alt="t4" src="https://github.com/user-attachments/assets/e44e7606-f3cb-4d22-91d2-0126e3888cce">
 <img width="599" alt="t5" src="https://github.com/user-attachments/assets/4f1981d3-207b-4a50-adba-102848a6005b">
-![t6](https://github.com/user-attachments/assets/1520b8b8-bf3f-4ee0-8c8e-d5880f1b355f)
+<img width="600" alt="t6" src="https://github.com/user-attachments/assets/b3a3fefd-acf4-4bbf-9631-374a09c9fc28">
