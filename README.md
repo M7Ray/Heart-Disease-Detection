@@ -268,5 +268,5 @@ models.sort_values(by='Score', ascending=False).style.background_gradient(cmap='
 
 ```
 
-<img width="146" alt="t12" src="https://github.com/user-attachments/assets/b36829cd-a858-4071-8e49-99de0e362b73">
+<img width="200" alt="t12" src="https://github.com/user-attachments/assets/b36829cd-a858-4071-8e49-99de0e362b73">
 
