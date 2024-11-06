@@ -39,7 +39,8 @@
     the Decision Tree Classifier achieved a high accuracy in predicting heart failure. These findings could potentially assist healthcare professionals in identifying 
     patients who are at high risk of heart failure and provide timely interventions.
 
-The heart failure dataset used in this project is available on Kaggle and can be accessed [here](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?resource=download)
+The dataset used in this project is available on Kaggle and can be accessed [here](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?resource=download)
+
 
 # Reading and Cleaning The Data
 
