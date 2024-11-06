@@ -32,8 +32,8 @@
     0.88, precision of 0.92, recall of 0.87, F1 score of 0.89. For the Naive Bayes Classifier, the accuracy was 0.83, precision 0.86, Recall 0.85, F1 score 0.85. Lastly, 
     using the ANN classifier, the obtained accuracy was 0.83, precision 0.88, Recall and F1 are 0.85.
 
-CONCLUSION
-
+- CONCLUSION
+    
     The project demonstrated the use of machine learning algorithms to predict the likelihood of heart failure based on patient demographics, clinical and lab 
     measurements, and other risk factors. The results showed that Age, Cholesterol, MaxHR and RestingBP levels were the most significant predictors of heart failure, and 
     the Decision Tree Classifier achieved a high accuracy in predicting heart failure. These findings could potentially assist healthcare professionals in identifying 
