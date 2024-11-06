@@ -13,16 +13,17 @@
 
 - INSIGHTS 
 
-    Methods used: 
-    1- Exloratory Data Analysis: Random Forest Classifier, Decision Tree Classifier, Naive Bayes Classifier, ANN
+    Methods used:
+  
+    * Exloratory Data Analysis: Random Forest Classifier, Decision Tree Classifier, Naive Bayes Classifier, ANN
     
-    2- Data Cleaning: remove duplicates, handle missing values, removing unnecessary columns.
+    * Data Cleaning: remove duplicates, handle missing values, removing unnecessary columns.
     
-    3- Data Visualization
+    * Data Visualization
     
-    4- Decision Tree: splitting the dataset into training and testing sets, and used various classification algorithms.
+    * Decision Tree: splitting the dataset into training and testing sets, and used various classification algorithms.
     
-    5- Model Evaluation: Accuracy, Precision, Recall and F1 score.
+    * Model Evaluation: Accuracy, Precision, Recall and F1 score.
 
 - RESULTS
 
