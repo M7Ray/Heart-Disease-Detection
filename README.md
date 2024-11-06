@@ -12,11 +12,11 @@ Others:  RestingBP, RestingECG, MaxHR, ExerciseAngina, Oldpeak, ST_Slope, HeartD
 INSIGHTS 
 
 Methods used: 
-- Exloratory Data Analysis: Random Forest Classifier, Decision Tree Classifier, Naive Bayes Classifier, ANN
-- Data Cleaning: remove duplicates, handle missing values, removing unnecessary columns.
-- Data Visualization
-- Decision Tree: splitting the dataset into training and testing sets, and used various classification algorithms.
-- Model Evaluation: Accuracy, Precision, Recall and F1 score.
+1- Exloratory Data Analysis: Random Forest Classifier, Decision Tree Classifier, Naive Bayes Classifier, ANN
+2- Data Cleaning: remove duplicates, handle missing values, removing unnecessary columns.
+3- Data Visualization
+4- Decision Tree: splitting the dataset into training and testing sets, and used various classification algorithms.
+5- Model Evaluation: Accuracy, Precision, Recall and F1 score.
 
 RESULTS
 
